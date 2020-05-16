@@ -1,0 +1,3 @@
+disponible:True		ville:tunis		numero_tel:78965412		adresse_depart:rue115/tunis	
+disponible:True		ville:nabeul		numero_tel:7485632		adresse_depart:cdhhdshbjddf		
+disponible:True		ville:sousse		numero_tel:78963254		adresse_depart:hdhjkdfjdfjjddm		

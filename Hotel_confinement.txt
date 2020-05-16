@@ -1,0 +1,2 @@
+nom:boujbal		prenom:hamed		numero_hotel:789632145		numero_cin:885476		adresse_hotel:hefjjgjgjjfjgf		date_entree:12/1/2020		date_sortie:12/4/2020
+nom:yazidi		prenom:amir		numero_hotel:12356987		numero_cin:865120		adresse_hotel:sfddkqjdjjjfd		date_entree:7/8/2020		date_sortie:9/9/2020

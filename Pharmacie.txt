@@ -1,0 +1,3 @@
+nom:boujbal		ville:marsa		adresse:rueyasamine		nbr_bavette_dispo:800		medicament:sayfox		medicament2:dolip		
+nom:nuit		ville:mannouba		adresse:rueyasamineN°15/mannouba		nbr_bavette_dispo:900		medicament:panadol		medicament2:chloro		
+nom:hsjkv		ville:dvshs		adresse:duqkhvudlv		nbr_bavette_dispo:400		medicament:panadol		medicament2:null		medicament3:jjdcd		

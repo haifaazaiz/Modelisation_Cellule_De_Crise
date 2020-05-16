@@ -1,0 +1,4 @@
+nom:haifa			prenom:azaiz			num_carte_identite:9880874			sexe:femelle			gouvernerat:nabeul			adresse:benikhalled			num_tel:94233891			Symptômes:fievre=40°,sensation_fatigue,toux,maux_gorge,diharrees,			 resultat test:positif			etat_de_sante_actuel:Etat grave
+nom:hela			prenom:yazidi			num_carte_identite:47852461			sexe:femelle			gouvernerat:jcjkjvf			adresse:vffvf			num_tel:789456			Symptômes:fievre=38°,maux_gorge,			 resultat test:negatif			etat_de_sante_actuel:etat stable
+nom:dvvvvvv			prenom:vddddddd			num_carte_identite:897456			sexe:dvvvvvv			gouvernerat:nabeul			adresse:ddvdvd			num_tel:8245697			Symptômes:fievre=784°,sensation_fatigue,toux,			 resultat test:vdddddd			etat_de_sante_actuel:sssssss
+		nom:hjfsjk			prenom:hdbs			num_carte_identite:5486552			sexe:djvjvnhsd			gouvernerat:tunis			adresse:hksvrjvkl			num_tel:4899465			
