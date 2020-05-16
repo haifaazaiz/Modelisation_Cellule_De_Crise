@@ -1,0 +1,6 @@
+Nom:Rabta			Gouvernerat:tunis			Adresse:hscbkdcjd			Numero:12345678			Nombre_Patients:300
+Nom:charlenicole			Gouvernerat:nabeul			Adresse:cdcdhjdkj			Numero:85214796			Nombre_Patients:951
+Nom:azizaothmena			Gouvernerat:tunis			Adresse:vbhfvsfvfdvf			Numero:1234567			Nombre_Patients:400
+Nom:razi			Gouvernerat:mannouba			Adresse:dbkdvvvds			Numero:78569412			Nombre_Patients:74
+Nom:tawfik			Gouvernerat:marsa			Adresse:ygfvheher			Numero:7896541			Nombre_Patients:74
+         							 			                 			              			    
